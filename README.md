@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-< align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
+<a href="https://laravel.com" target="_blank" align="center"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
@@ -66,4 +64,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
 # uts-web-lanjut-laravel
->>>>>>> 4405b609361973e1fefa67a892b04a149882ae29
+![Screenshot (593)](https://github.com/SeptianNurIkhsan/uts-web-lanjut-laravel/assets/114415096/73cee5da-304d-453d-b604-536027dea416)
+
+![Screenshot (595)](https://github.com/SeptianNurIkhsan/uts-web-lanjut-laravel/assets/114415096/cb51dc9a-1d80-4cd7-a115-b6f2b661eef5)
+
+![Screenshot (596)](https://github.com/SeptianNurIkhsan/uts-web-lanjut-laravel/assets/114415096/2781728d-eb0d-4efd-a982-b59d06267bae)
+
+![Screenshot (599)](https://github.com/SeptianNurIkhsan/uts-web-lanjut-laravel/assets/114415096/f3945286-06d1-4bbd-a6a1-027828aae2d1)
+
+![Screenshot (598)](https://github.com/SeptianNurIkhsan/uts-web-lanjut-laravel/assets/114415096/ce20c1d3-0370-40d5-b9c8-6c4943c9277b)
+
+![Screenshot (602)](https://github.com/SeptianNurIkhsan/uts-web-lanjut-laravel/assets/114415096/77c04c2e-ddc0-4b4c-ac0d-955b407ddc55)
+
+![Screenshot (603)](https://github.com/SeptianNurIkhsan/uts-web-lanjut-laravel/assets/114415096/c21039a0-cbc8-421b-a3ad-cf95dfbb55f7)
+
+![Screenshot (601)](https://github.com/SeptianNurIkhsan/uts-web-lanjut-laravel/assets/114415096/e4e9707e-2f87-466b-8f18-16478014216c)
+
+![Screenshot (600)](https://github.com/SeptianNurIkhsan/uts-web-lanjut-laravel/assets/114415096/19b044af-d882-4d8d-b6c7-141098f333f6)
+
+![Screenshot (604)](https://github.com/SeptianNurIkhsan/uts-web-lanjut-laravel/assets/114415096/e56d9f95-3730-483e-bce8-8fdae18ceaaf)
